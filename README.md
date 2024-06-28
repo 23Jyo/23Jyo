@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jyothsna Sara Abey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **js , react**
+- 🌱 I’m currently learning **js , react , Generative AI**
 
 - 📫 How to reach me **jyothsnaabey2003@gmail.com**
+- Currently working on an Intel project using OpenVino
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
