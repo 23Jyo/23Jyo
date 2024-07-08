@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jyothsna Sara Abey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 - I'm interested in ML and AI.
-
 -Looking for projects(Internships) related to ML and AI.
 
 - 🌱 I’m currently learning **js , react , Generative AI**
-- 
-- I am currently working on an INTEL PROJECT(Running GenAI on Intel AI Laptops and Simple LLM Inference on CPU and 
-fine-tuning of LLM Models using Intel® OpenVINO™)
 
+- I am currently working on an INTEL PROJECT(Running GenAI on Intel AI Laptops and Simple LLM Inference on CPU and 
+                                                         fine-tuning of LLM Models using Intel® OpenVINO™)
 - 📫 How to reach me **jyothsnaabey2003@gmail.com**
 - All my projects are present in **https://github.com/23Jyo**
 
